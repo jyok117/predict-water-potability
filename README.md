@@ -1,5 +1,5 @@
 # Predict Water Potability
-**DS 675 Machine Learning : Predict Water Potability
+**DS 675 Machine Learning : Predict Water Potability**
 
 [kaggle Link](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
 
