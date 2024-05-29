@@ -1,4 +1,7 @@
-# Predicting Water Potability
+# Predict Water Potability
+**DS 675 Machine Learning : Predict Water Potability
+
+[kaggle Link](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
 
 This project aims to develop a machine learning model to accurately predict water potability based on a set of physicochemical parameters. The goal is to identify safe drinking water sources and guide necessary treatment processes.
 
